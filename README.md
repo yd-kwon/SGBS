@@ -1,6 +1,8 @@
 # Simulation-Guided Beam Search for Neural Combinatorial Optimization
 
-This repository is the official implementation of **Simulation-Guided Beam Search for Neural Combinatorial Optimization**.
+This repository is the official implementation of **Simulation-Guided Beam Search for Neural Combinatorial Optimization** (NeurIPS 2022). <br>
+> https://arxiv.org/abs/2207.06190
+
 
 
 ![sgbs_3steps](https://user-images.githubusercontent.com/104659627/182066947-70225ccd-0ec9-4188-8ada-abfccafcc751.png)
